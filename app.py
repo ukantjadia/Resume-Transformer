@@ -149,5 +149,14 @@ elif submit4:
         st.toast("Please upload a PDF file to proceed.")
 
 
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+            
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 st.markdown("---")
 st.caption("Resume Expert - Making Job Applications Easier")
