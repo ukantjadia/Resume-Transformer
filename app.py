@@ -8,6 +8,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage
 
 
+
 os.environ.get("GOOGLE_API_KEY")
 genai.configure(
     api_key=os.environ.get("GOOGLE_API_KEY"),
