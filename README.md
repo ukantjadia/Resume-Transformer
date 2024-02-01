@@ -47,7 +47,9 @@ The job application process can be an intimidating journey, and your resume serv
 The **Resume Transformer** Streamlit application plays a crucial role in connecting job seekers with their ideal roles. Harnessing the power of AI, it not only provides valuable insights but also actively contributes to the continuous improvement of the job application process.
 
 ## Acknowledgements
+
 Thanks to [Sai Koushik Gandikota](https://koushik2299.github.io/) for the project idea and getting it started.
+
 ---
 
 *Created by Ukant*
